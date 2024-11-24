@@ -1,0 +1,41 @@
+
+/* Descendant Combinator */
+
+
+/* Both Class selector */
+.container .text {
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+/* Both Element Selector*/
+/*div p {
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+/* Combination of Element and Class Selector */
+/* div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+/* Combination of Class and Element Selector */
+/* .container p {
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
